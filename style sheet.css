@@ -1,0 +1,18 @@
+.font {
+    font-family: jameel noori nastaleeq;
+    font: size 20px;
+}
+.image{
+    size: 40px;
+    margin-left: 60px;
+}
+.navbar{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 400px;
+    color:black;
+}
+.span{
+    font-size: 60px;
+    color:black;
+}
